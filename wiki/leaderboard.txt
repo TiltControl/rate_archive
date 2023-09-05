@@ -1,0 +1,1191 @@
+**This page is up to date as of: Eclectic Artpop**
+
+**[HERE IS THE LINK TO THE MAIN RATE WIKI PAGE](https://www.reddit.com/r/popheads/wiki/index/rate-threads#wiki_rates)**
+
+Welcome to the r/Popheads rate leaderboard! This page will be updated after every rate.
+
+[HERE](https://www.reddit.com/r/popheads/comments/ipkqcc/stats_from_every_song_rated_by_rpopheads_after/) is a snapshot of stats at the 100 rate milestone
+
+[HERE](https://www.reddit.com/r/popheads/comments/lvi2x7/a_new_rate_songlist_search_tool_and_also_more_fun/) is a list of rare stats including leaderboard sweeps, early exits, and 0 wins/11 losses. (Done at 113 rates)
+
+For those unaware, the subreddit performs 2-3 rates a month where we all come together and ~~endlessly bicker~~ send in scores to determine our general consensus/opinions on songs! A good overview on past rates and how to do it can be found [here](https://www.reddit.com/r/popheads/wiki/index/rate-threads#wiki_rates).
+
+Shoutout to all the hosts that make things happen by running the rates, the rate committee for selecting / setting them up, the sub mods for getting everything in order, and the artists that make the rate playlist art (like /u/resisbythebatphone / Nick - if there are others let me know)! Also thanks to the other stat trackers /u/TragicKingdom1, /u/jackisboredtoday, /u/elizabethddos, /u/frogaranaman, and /u/RandomHypnotica (see sections on the page for specific inputs)! Not to mention the raters that make all of this possible!
+
+**About the data:** 
+
+Not included here is:
+
+ * The bonus rate for the Up and Coming Rap Girls since the conditions for rating were different than normal (and it breaks basically every statistic). 
+ * The Videography rate since it rated the videos, not the songs
+
+Let u/TiltControls know if you spot any errors in the data or have any suggestions for additional charts.
+
+
+#Full Songlist Data
+
+**Here is a [link to the raw data/full songlist](https://docs.google.com/spreadsheets/d/1A5h-JTTP_9oazhHjf8dXyPMsf3kVJjy1lU1ZjJd0_Vk/).** 
+
+It is very useful if you want to find whether we have rated a song or artist (or how they did) but don't want to search through 100+ rates.
+
+* Ctrl/Command + F is useful if you are looking for specific artists/songs
+* Feel free to sort/filter the lists any way you see fit!
+* Due to the headers, to determine a song's ranking just take 1 off the row number (ignoring ties)
+* Some of the songs/rates are missing data (usually controversy or participant data). Due to this some of the aggregated stats might be slightly off (score-related stats should be all fine though)
+
+#Rate Songlist Search Tool
+
+**THE TOOL IS NOW ON VERSION 2.1 AS OF 2022-01-09**
+
+**[CLICK HERE TO GET THE TOOL (requires Google Sheets)!](https://docs.google.com/spreadsheets/u/1/d/1mKu240rML0p_58_UXQSn9XmQHguOCZmpSmeARTsKNlI/copy)**
+
+For an easier time searching the data, you may also want to use the Rate Songlist Search Tool
+
+It makes it easier to search through the data and combine search criteria
+
+Example preview screens below: 
+
+[Here is the search screen looking at Britney's top 5 finishes](https://i.imgur.com/po0HZVd.png)
+
+[And here are the results!](https://i.imgur.com/tcUG5Cd.png)
+
+Details on using the tool can be found [HERE](https://www.reddit.com/r/popheads/comments/lvi2x7/a_new_rate_songlist_search_tool_and_also_more_fun/)
+
+#Overall Averages and Totals
+
+The current average song score (mean) sits at: **7.406**
+
+&nbsp;
+
+The current average song controversy sits at: **1.950**
+
+
+#Leaderboards
+
+##Songs
+
+###Highest Scores
+
+Though 10 would normally be the highest bound a song could achieve, 2 legends of pop have managed to break past that barrier and into the double digits (one of them twice!).
+
+|Rank|Song|Artist|Score|Rate|
+:--|:--|:--|--:|:--|
+|1|How Will I Know|Whitney Houston|10.107|She's So Unusual vs. Madonna vs. Forever Your Girl vs. Whitney Houston|
+|2|I Wanna Dance With Somebody|Whitney Houston|10.054|Like a Prayer vs. Rhythm Nation 1814 vs. Whitney|
+|3|All I Want for Christmas Is You|Mariah Carey|10.038|Popheads Holiday Music|
+|4|Running Up That Hill (A Deal With God)|Kate Bush|9.962|Homogenic vs. Hounds of Love vs. When the Pawn...|
+|5|Dancing On My Own|Robyn|9.954|Body Talk vs. Bionic vs. Flesh Tone vs. Aphrodite|
+|6|The Chain|Fleetwood Mac|9.867|Pet Sounds vs. Abbey Road vs. Rumours|
+|7|Creep|TLC|9.864|The Writing's on the Wall vs. Funky Divas vs. CrazySexyCool|
+|8|Can't Get You Out of My Head|Kylie Minogue|9.854|Fever vs. In the Zone vs. Music|
+|9|King Kunta|Kendrick Lamar|9.824|To Pimp a Butterfly vs. A Seat at the Table vs. Black Messiah|
+|10|I Know the End|Phoebe Bridgers|9.792|Fetch The Bolt Cutters vs. Punisher vs. Women in Music Pt. III
+|11|Immaterial|SOPHIE|9.784|Hopelessness vs. Kick I vs. Transphobic vs. Oil of Every Pearl's Un-Insides|
+|12|Run Away With Me|Carly Rae Jepsen|9.760|1989 vs. EMOTION vs. Dangerous Woman [Rerate]
+|13|Oops!...I Did It Again|Britney Spears|9.756|Oops!... I Did It Again vs. Christina Aguilera vs. No Strings Attached vs. Millennium|
+|14|Get Outta My Way|Kylie Minogue|9.737|Body Talk vs. Bionic vs. Flesh Tone vs. Aphrodite|
+|15|Mr. Brightside|The Killers|9.734|Hot Fuss vs. Songs About Jane vs. A Rush Of Blood To The Head|
+|16|Once in a Lifetime|Talking Heads|9.722|Parallel Lines vs. Remain in Light vs. The B-52's vs. Beauty and the Beat|
+|17|Your Best American Girl|Mitski|9.719|Ultraviolence vs. Strange Mercy vs. Puberty 2|
+|18|Smooth Criminal|Michael Jackson|9.715|Bad vs. Sign O' the Times vs. Faith|
+|19|Cloudbusting|Kate Bush|9.706|Homogenic vs. Hounds of Love vs. When the Pawn...|
+|20|Back to Black|Amy Winehouse|9.696|Back to Black vs. 21 vs. It's Not Me, It's You|
+|21|We Belong Together|Mariah Carey|9.690|Love. Angel. Music. Baby vs. The Emancipation of Mimi vs. B'Day|
+|22|Hung Up|Madonna|9.689|Blackout vs. X vs. Confessions on a Dance Floor|
+|23|cellophane|FKA twigs|9.686|Norman Fucking Rockwell vs. MAGDALENE vs. Titanic Rising|
+|24|Heart of Glass|Blondie|9.864|Parallel Lines vs. Remain in Light vs. The B-52's vs. Beauty and the Beat|
+|25|Billie Jean|Michael Jackson|9.673|Control vs. Like a Virgin vs. Purple Rain vs. Thriller|
+
+###Lowest Scores
+
+For almost 85 rates some random throwaway country song from 2012 managed to hold the top spot of this list which is... actually pretty impressive in its own right. For now **Earth - Lil Dicky** holds the top (bottom) score and if someone would suggest a more fitting songs I'd be very interested to find out what.
+
+|Rank|Song|Artist|Score|Rate|
+:--|:--|:--|--:|:--|
+|1|Earth|Lil Dicky|1.570|Charity Rate II: Sylvia Rivera Law Project|
+|2|Somethin' Bout a Truck|Kip Moore|2.322|Billboard Hot 100 Year-End Songs of 2012|
+|3|On My Own|Farrah Abraham|2.371|Charity Rate: Hispanic Federation|
+|4|Birthday Cake (Remix)|Rihanna (ft. Chris Brown)|2.438|Born This Way vs. 4 vs. Femme Fatale vs. Talk That Talk|
+|5|Oops I Think I Pooped|Pandora Boxx|2.515|Drag Rate|
+|6|Drunk on You|Luke Bryan|2.644|Billboard Hot 100 Year-End Songs of 2012|
+|7|Watch Me|Silento|2.668|Billboard Hot 100 Decade-End Songs of the 2010s|
+|8|It's Everyday Bro|Jake Paul (ft. Team 10)|2.672|Meme Songs|
+|9|SAD!|XXXTENTACION|2.745|21st Century Hip Hop #1s|
+|10|Take a Little Ride|Jason Aldean|2.854|Billboard Hot 100 Year-End Songs of 2012|
+|11|Girls Like You|Maroon 5 (ft. Cardi B)|2.891|Billboard Hot 100 Decade-End Songs of the 2010s
+|12|Permission To Dance|BTS|3.011|2021 K-Pop Essentials
+|13|Fly Over States|Jason Aldean|3.108|Billboard Hot 100 Year-End Songs of 2012
+|14|Rico Suave|Gerardo|3.115|VH1's 100 Greatest Songs of the 90's
+|15|I Don't Want This Night to End|Luke Bryan|3.153|Billboard Hot 100 Year-End Songs of 2012
+|16|I'd Rather Die|Tramp Stamps|3.325|Tiktok Rate
+|17|Come Over|Kenny Chesney|3.291|Billboard Hot 100 Year-End Songs of 2012
+|18|Bad Blood|Taylor Swift|3.410|1989 vs. EMOTION vs. Dangerous Woman
+|19|Vigilante Shit|Taylor Swift|3.459|Renaissance vs. Midnights vs. SOS
+|20|Sexy and I Know It|LMFAO|3.469|Billboard Hot 100 Year-End Songs of 2012
+|21|Pop Champagne|Jim Jones (ft. Ron Browz, Juelz Santana)|3.498|Billboard Hot 100 Year-End Songs of 2009
+|22|Blurred Lines|Robin Thicke (ft. Pharrell Williams, T.I.)|3.527|Billboard Hot 100 Decade-End Songs of the 2010s
+|23|Drive By|Train|3.527|Billboard Hot 100 Year-End Songs of 2012
+|24|Boyfriends|Harry Styles|3.530|Un Verano Sin Ti vs. Harry's House vs. Dawn FM
+|25|The Halloween Puppet Show|Flossie and the Unicorns|3.578|Charity IV
+
+###Most Elevens
+
+|Rank|Song|Artist|11's|Rate|
+:--|:--|:--|--:|:--|
+|1|Run Away With Me|Carly Rae Jepsen|48|1989 vs. EMOTION vs. Dangerous Woman [Rerate]
+|2|Blinding Lights|The Weeknd|45|Folklore vs. Chromatica vs. Future Nostalgia vs. After Hours|
+|2|I Know the End|Phoebe Bridgers|45|Fetch The Bolt Cutters vs. Punisher vs. Women in Music Pt. III
+|4|Happier Than Ever|Billie Eilish|43|Sour vs. Happier Than Ever vs. Montero vs. Planet Her
+|5|Praying|Kesha|36|Rainbow vs. Reputation vs. Witness|
+|5|Cruel Summer|Taylor Swift|36|Lover vs. thank u, next vs. WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? vs. Cuz I Love You|
+|7|XS|Rina Sawayama|34|Dedicated Side B vs. How I'm Feeling Now vs. Sawayama vs. Ungodly Hour|
+|8|Juice|Lizzo|32|Lover vs. thank u, next vs. WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? vs. Cuz I Love You|
+|9|All The Time|Zara Larsson|31|Heaven & Hell vs. Poster Girl vs. Life Support|
+|10|disco tits|Tove Lo|30|Number 1 Angel vs. Blue Lips vs. Era 1 vs. CollXtion II|
+|11|Your Best American Girl|Mitski|29|Ultraviolence vs. Strange Mercy vs. Puberty 2|
+|11|Damn Daniel|Bree Runway (ft. Yung Baby Tate)|29|2020 EP Rate|
+|13|cellophane|FKA twigs|27|Norman Fucking Rockwell vs. MAGDALENE vs. Titanic Rising|
+|14|Ungodly Hour|Chloe x Halle|26|Dedicated Side B vs. How I'm Feeling Now vs. Sawayama vs. Ungodly Hour
+|14|Impossible Soul|Sufjan Stevens|26|The ArchAndroid vs. Plastic Beach vs. The Age of Adz
+|16|Spotlight|Jessie Ware|25|What's Your Pleasure? vs. Disco vs. Róisín Machine|
+|16|Once in a Lifetime|Talking Heads|25|Parallel Lines vs. Remain in Light vs. The B-52's vs. Beauty and the Beat|
+|16|VIRGO’S GROOVE|Beyoncé|25|Renaissance vs. Midnights vs. SOS
+|19|All Too Well|Taylor Swift|24|Red vs. Kiss vs. My Everything|
+|19|Track 10|Charli XCX|24|Pop 2 vs. Art Angels vs. Bonito Generation vs. Matangi
+|21|Running Up That Hill (A Deal With God)|Kate Bush|23|Winners Rate II
+|21|august|Taylor Swift|23|Folklore vs. Chromatica vs. Future Nostalgia vs. After Hours
+|21|The Loneliest Time|Carly Rae Jepsen (feat. Rufus Wainwright)|23|The Loneliest Time vs. Crash vs. Hold The Girl vs. Dirt Femme
+|21|SAOKO|ROSALÍA|23|Caprisongs vs. Motomami vs. 333
+|25|Bad Romance|Lady Gaga|22|Billboard Hot 100 Decade-End Songs of the 2010s
+|25|Fancy|TWICE|22|K-Pop Girl Groups Smackdown
+|25|LOVE BOMB|fromis_9|22|K-Pop Girl Groups Smackdown
+|25|House of Balloons / Glass Table Girls|The Weeknd|22|House of Balloons vs. Nostalgia, ultra vs. Kaleidoscope Dream
+
+###Eleven Magnets
+
+These next songs completely dominated* the 11 leaderboard for their rates. No song has achieved more than 50% of the rates 11's, but a few have come close.
+
+*Exception to Dancing On My Own and Get Outta My Way, the power couple of the Futuristic Flops rate, combined taking nearly two-thirds of the rate's 11's.
+
+|Rank|Song|Artist|11's Received|Rate|
+:--|:--|:--|--:|:--|
+|1|All I Want for Christmas Is You|Mariah Carey|46.20%|Popheads Holiday Music|
+|2|Your Best American Girl|Mitski|41.40%|Ultraviolence vs. Strange Mercy vs. Puberty 2|
+|3|How Will I Know|Whitney Houston|37.50%|She's So Unusual vs. Madonna vs. Forever Your Girl vs. Whitney Houston|
+|4|Mirrors|Justin Timberlake|37.00%|Unorthodox Jukebox vs. Purpose vs. The 20/20 Experience vs. x|
+|5|Dancing On My Own|Robyn|36.40%|Body Talk vs. Bionic vs. Flesh Tone vs. Aphrodite|
+|6|Enchanted|Taylor Swift|34.80%|Four The Record vs. Speak Now vs. Blown Away|
+|7|I Wanna Dance With Somebody (Who Loves Me)|Whitney Houston|34.40%|Like a Prayer vs. Rhythm Nation 1814 vs. Whitney|
+|8|Impossible Soul|Sufjan Stevens|34.20%|The ArchAndroid vs. Plastic Beach vs. The Age of Adz
+|9|Once in a Lifetime|Talking Heads|32.50%|Parallel Lines vs. Remain in Light vs. The B-52's vs. Beauty and the Beat|
+|10|House of Balloons / Glass Table Girls|The Weeknd|31.42%|House of Balloons vs. Nostalgia, ultra vs. Kaleidoscope Dream|
+
+###Most Zeroes
+
+|Rank|Song|Artist|0's|Rate|
+:--|:--|:--|:--|:--|
+|1|Boys Will Be Boys|Dua Lipa|58|Folklore vs. Chromatica vs. Future Nostalgia vs. After Hours|
+|2|Vigilante Shit|Taylor Swift|47|Renaissance vs. Midnights vs. SOS
+|3|Permission To Dance|BTS|44|2021 K-Pop Essentials
+|4|Ice Cream|BLACKPINK (ft. Selena Gomez)|41|K-Pop Girl Groups Smackdown
+|5|Birthday Cake (Remix)|Rihanna (ft. Chris Brown)|36|Born This Way vs. 4 vs. Femme Fatale vs. Talk That Talk|
+|5|Earth|Lil Dicky|36|Charity Rate II: Sylvia Rivera Law Project|
+|5|ME!|Taylor Swift (ft. Brendon Urie)|36|Lover vs. thank u, next vs. WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? vs. Cuz I Love You|
+|8|bmbmbm|black midi|35|Indieheads Exchange
+|9|Oops I Think I Pooped|Pandora Boxx|28|Drag Rate|
+|10|On My Own|Farrah Abraham|27|Charity Rate: Hispanic Federation|
+|11|Closer|The Chainsmokers (ft. Halsey)|25|All Stars 2019-2020|
+|12|Bad Blood|Taylor Swift|24|1989 vs. EMOTION vs. Dangerous Woman [Rerate]
+|13|The Halloween Puppet Show|Flossie and the Unicorns|24|Charity Rate IV
+|14|It's Everyday Bro|Jake Paul (ft. Team 10)|23|Meme Songs|
+|14|I'd Rather Die|Tramp Stamps|23|Tiktok Rate
+|16|MONEY|LISA|22|2021 K-Pop Essentials
+|17|SAD!|XXXTENTACION|21|21st Century Hip Hop #1s|
+|17|Shoes|Kelly|21|All Stars 2019-2020|
+|17|Good in Bed|Dua Lipa|21|Folklore vs. Chromatica vs. Future Nostalgia vs. After Hours|
+|20|Jewels N' Drugs|Lady Gaga|20|Artpop vs. Prism vs. Beyoncé
+|20|This Is Why We Can't Have Nice Things|Taylor Swift|20|Rainbow vs. Reputation vs. Witness
+|20|Roman's Revenge|Nicki Minaj (ft. Eminem)|20|Animal vs. Teenage Dream vs. Loud vs. Pink Friday
+|23|7 Rings|Ariana Grande|19|Lover vs. thank u, next vs. WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? vs. Cuz I Love You
+|23|Dopesmoker|Sleep|19|Charity Rate III
+|25|Ur So Gay|Katy Perry|18|2008 Super Mega Deluxe Ultimate
+|25|Rico Suave|Gerardo|18|VH1's 100 Greatest Songs of the 90's
+
+###Zero Magnets
+
+In contrast, these songs helped keep 0’s in their rate from landing on actually decent songs. Again, no one has taken over 50% of the 0's in a rate, but at this point if Earth couldn't do it I don't think it's actually possible.
+
+|Rank|Song|Artist|0's Received|Rate|
+:--|:--|:--|:--|:--|
+|1|Earth|Lil Dicky|47.40%|Charity Rate II: Sylvia Rivera Law Project|
+|2|Birthday Cake (Remix)|Rihanna (ft. Chris Brown)|42.90%|Born This Way vs. 4 vs. Femme Fatale vs. Talk That Talk|
+|3|On My Own|Farrah Abraham|37.50%|Charity Rate: Hispanic Federation|
+|4|Oops I Think I Pooped|Pandora Boxx|29.78%|Drag Rate
+|5|It's Everyday Bro|Jake Paul (ft. Team 10)|29.10%|Meme Songs|
+|6|SAD!|XXXTENTACION|28.40%|21st Century Hip Hop #1s|
+|7|Ur So Gay|Katy Perry|27.30%|2008 Super Mega Deluxe Ultimate|
+|8|Vigilante Shit|Taylor Swift|27.01%|Renaissance vs. Midnights vs. SOS|
+|9|Boys Will Be Boys|Dua Lipa|25.20%|Folklore vs. Chromatica vs. Future Nostalgia vs. After Hours|
+|10|The Halloween Puppet Show|Flossie and the Unicorns|24.20%|Charity Rate IV
+
+
+###Highest Low Score
+
+This is for the highest low scores given during a rate. For example, How Will I Know didn't get a single score below 8.3 in its original rate.
+
+|Rank|Song|Artist|Lowest Score|Rate|
+:--|:--|:--|:--|:--|
+|1|How Will I Know|Whitney Houston|8.3|She's So Unusual vs. Madonna vs. Forever Your Girl vs. Whitney Houston|
+|2|POWER|Kanye West|8.0|My Beautiful Dark Twisted Fantasy vs. good kid, m.A.A.d city vs. Channel Orange|
+|2|Valerie|Mark Ronson &amp; Amy Winehouse|8.0|Random Access Memories vs. Funk Wav Bounces Vol. 1 vs. Late Night Feelings|
+|2|One More Time|Daft Punk|8.0|Random Access Memories vs. Funk Wav Bounces Vol. 1 vs. Late Night Feelings|
+|5|I Wanna Dance With Somebody (Who Loves Me)|Whitney Houston|7.8|Like a Prayer vs. Rhythm Nation 1814 vs. Whitney
+|6|Do I Wanna Know?|The Arctic Monkeys|7.5|The 1975 vs. AM vs. I Love You .vs. Modern Vampires of the City|
+
+[In total, 29 songs](https://pastebin.com/KJ64aiUH) have hit a minimum score of 7.0
+
+###Lowest High Score
+
+So far this list is reserved to a single artist in a single rate. This is an album that was nominated for 2 Grammy awards too.
+
+|Rank|Song|Artist|Highest Score|Rate|
+:--|:--|:--|:--|:--|
+|1|You Wrote the Book on Love|The Backstreet Boys|7.0|Oops!…I Did It Again vs. Christina Aguilera vs. No Strings Attached vs. Millennium|
+|2|You Knew What I Knew|The Backstreet Boys|7.5|Oops!…I Did It Again vs. Christina Aguilera vs. No Strings Attached vs. Millennium|
+|3|Spanish Eyes|The Backstreet Boys|7.8|Oops!…I Did It Again vs. Christina Aguilera vs. No Strings Attached vs. Millennium|
+
+###Most Controversial Songs
+
+Controversy is basically agreement on a song's score. High controversy means there was a lot of variation between the scores sent in. Low controversy means that the score was consistent across most ballots (whether that accepted score is high or low can vary!)
+
+|Rank|Song|Artist|Controversy|Rate|
+:--|:--|:--|:-:|:--|
+|1|Drag Money|Serena Chacha|3.869|Drag Rate|
+|2|Closer|The Chainsmokers (ft. Halsey)|3.845|All Stars 2019-2020|
+|3|Shoes|Kelly|3.822|All Stars 2019-2020|
+|4|4:33|John Cage|3.803|St. Ratrick's Day|
+|5|Closer|The Chainsmokers (ft. Halsey)|3.669|The 2016 EP Rate|
+|6|stupid horse|100 gecs|3.658|All Stars 2019-2020|
+|7|The Halloween Puppet Show|Flossie and the Unicorns|3.655|Charity Rate IV
+|8|Ur So Gay|Katy Perry|3.640|2008 Super Mega Deluxe Ultimate|
+|9|Literal Legend|Ayesha Erotica|3.621|Unreleased Songs
+|10|Work from Home|Fifth Harmony (ft. Ty Dolla $ign)|3.617|Get Weird vs. Made in the A.M. vs. 7/27|
+|11|Closer|The Chainsmokers (ft. Halsey)|3.569|St. Ratrick's Day|
+|12|Boy Is A Bottom|DWV / Detox, Willam & Vicki Vox|3.563|Drag Rate|
+|13|Literal Legend|Ayesha Erotica|3.560|All Stars 2021-2022
+|14|Dopesmoker|Sleep|3.558|Charity Rate III|
+|15|Where's My Juul?|Full Tac (ft. Lil Mariko)|3.554|St. Ratrick's Day|
+|16|Sticker|NCT 127|3.541|2021 K-Pop Essentials|
+|17|Santa's Coming For Us|Sia|3.537|Popheads Holiday Music|
+|18|American Pie|Madonna|3.530|Fever vs. In the Zone vs. Music|
+|19|Roman's Revenge|Nicki Minaj (ft. Eminem)|3.530|Animal vs. Teenage Dream vs. Loud vs. Pink Friday
+|20|Fairytale of New York|The Pogues|3.527|Popheads Holiday Music|
+|21|Intro|Kelis|3.521|Aaliyah vs. Full Moon vs. Tasty
+|22|4:33|John Cage|3.506|Charity Rate: Hispanic Federation|
+|23|Why|Yoko Ono|3.505|Charity Rate IV
+|24|bmbmbm|black midi|3.479|Indieheads Exchange|
+|25|So Am I|Ava Max|3.460|Heaven & Hell vs. Poster Girl vs. Life Support
+|23|So Am I|Ava Max|3.455|All Stars 2021-2022
+|24|9 (After Coachella)|Cashmere Cat (ft. SOPHIE, MØ)|3.453|EDM/Pop Girl Collaborations|
+|25|Blurred Lines|Robin Thicke (ft. Pharrell Williams, T.I.)|3.448|Billboard Songs of the Summer|
+
+###Least Controversial Songs
+
+aka the Kendrick list
+
+|Rank|Song|Artist|Controversy|Rate|
+:--|:--|:--|:-:|:--|
+|1|POWER|Kanye West|0.696|My Beautiful Dark Twisted Fantasy vs. good kid, m.A.A.d city vs. Channel Orange|
+|2|Wesley's Theory|Kendrick Lamar (ft. George Clinton and Thundercat)|0.772|To Pimp a Butterfly vs. A Seat at the Table vs. Black Messiah|
+|3|How Will I Know|Whitney Houston|0.774|She's So Unusual vs. Madonna vs. Forever Your Girl vs. Whitney Houston|
+|4|i|Kendrick Lamar|0.811|To Pimp a Butterfly vs. A Seat at the Table vs. Black Messiah|
+|5|Switch|TLC|0.842|The Writing's on the Wall vs. Funky Divas vs. CrazySexyCool|
+|6|Running Up That Hill (A Deal With God)|Kate Bush|0.848|Homogenic vs. Hounds of Love vs. When the Pawn...|
+|7|Alright|Kendrick Lamar|0.854|To Pimp a Butterfly vs. A Seat at the Table vs. Black Messiah|
+|8|Joga|Björk|0.862|Homogenic vs. Hounds of Love vs. When the Pawn...|
+|9|Do I Wanna Know|Arctic Monkeys|0.905|The 1975 vs. AM vs. I Love You. vs. Modern Vampires of the City|
+|10|Heartless|Kanye West|0.907|808s &amp; Heartbreak vs. Take Care vs. Beauty Behind the Madness|
+|11|The Chain|Fleetwood Mac|0.909|Pet Sounds vs. Abbey Road vs. Rumours
+|12|King Kunta|Kendrick Lamar|0.916|To Pimp a Butterfly vs. A Seat at the Table vs. Black Messiah
+|13|Home Again|Carole King|0.921|Blue vs. Pearl vs. Tapestry vs. Coat of Many Colors
+|14|I Will Survive|Gloria Gaynor|0.926|Classic Disco Singles
+|15|Closer|Ne-Yo|0.928|FutureSex/LoveSounds vs. Confessions vs. Year of the Gentleman
+|16|I Wanna Dance With Somebody|Whitney Houston|0.931|Like a Prayer vs. Rhythm Nation 1814 vs. Whitney
+|17|Oops!...I Did It Again|Britney Spears|0.953|Oops!... I Did It Again vs. Christina Aguilera vs. No Strings Attached vs. Millennium
+|18|What's Your Pleasure?|Jessie Ware|0.955|What's Your Pleasure? vs. Disco vs. Róisín Machine
+|19|Smooth Criminal|Michael Jackson|0.969|Bad vs. Sign O' the Times vs. Faith
+|20|Monster|Kanye West (ft. Nicki Minaj, Jay-Z, Rick Ross, Bon Iver)|0.970|My Beautiful Dark Twisted Fantasy vs. good kid, m.A.A.d city vs. Channel Orange
+|21|Genie in a Bottle|Christina Aguilera|0.975|Oops!... I Did It Again vs. Christina Aguilera vs. No Strings Attached vs. Millennium
+|22|These Walls|Kendrick Lamar &nbsp; (ft. Anna Wise, Thundercat, Bilal)|0.980|To Pimp a Butterfly vs. A Seat at the Table vs. Black Messiah
+|23|Backseat Freestyle|Kendrick Lamar|0.997|My Beautiful Dark Twisted Fantasy vs. good kid, m.A.A.d city vs. Channel Orange
+|24|m.A.A.d city|Kendrick Lamar (ft. MC Eiht)|0.998|My Beautiful Dark Twisted Fantasy vs. good kid, m.A.A.d city vs. Channel Orange
+|24|Sucker Punch|Sigrid|0.998|Heard It In A Past Life vs. Sucker Punch vs. Cheap Queen
+
+###Most Rated
+
+|Title|Artist|Rates In|Avg Score|
+:--|:--|:-:|:-:|
+|Rolling in the Deep|Adele|6|8.513|
+|Closer|The Chainsmokers (ft. Halsey)|6|6.320|
+|TiK ToK|Kesha|5|8.561|
+|Call Me Maybe|Carly Rae Jepsen|5|8.471|
+|Paparazzi|Lady Gaga|4|8.851|
+|When Doves Cry|Prince|4|8.785|
+|Dancing On My Own|Robyn|4|8.775|
+|Say My Name|Destiny's Child|4|8.752
+|We Belong Together|Mariah Carey|4|8.634|
+|Waterfalls|TLC|4|8.586|
+|Criminal|Fiona Apple|4|8.571
+|Genie in a Bottle|Christina Aguilera|4|8.560|
+|Damn Daniel|Bree Runway (ft. Yung Baby Tate|4|8.499
+|Lights|Ellie Goulding|4|8.413|
+|Empire State of Mind|Jay-Z (ft. Alicia Keys)|4|8.409
+|We Found Love|Rihanna (ft. Calvin Harris)|4|8.363|
+|I Like It|Cardi B, J Balvin, Bad Bunny|4|8.345
+|California Gurls|Katy Perry (ft. Snoop Dogg)|4|8.050|
+|The One That Got Away|Katy Perry|4|7.847
+|Bodak Yellow|Cardi B|4|7.729
+|Low|Flo Rida (ft. T-Pain)|4|7.706
+|Party Rock Anthem|LMFAO (ft. Lauren Bennett, GoonRock)|4|6.560
+
+###Songeniality
+
+[Click here](https://pastebin.com/nbKcqjCz) to see a list of songs to win songeniality!
+
+* Taylor Swift has the most songeniality wins with 6! Halsey has 2nd place with 4 awards, will.i.am and Fall Out Boy are 3rd with 3 wins, and a few other artists have 2.
+
+* Closer by The Chainsmokers & Halsey and the DK Rap from Donkey Kong 64 are the only songs to win more than once with two wins each! (Or three for Closer if you don't mind host riggory)
+
+---
+##Artists
+
+Any artists included in artist stats must have been rated 5+ times. These only include credited names, for example, Beyoncé is not credited for Destiny's Child songs (except for when counting rate wins).
+
+This category does **not** include bonus songs
+
+###Most Wins
+|Rank|Artist|Wins|Songs|
+:--|:--|--:|:--|
+|1|Beyoncé|6*|Love On Top, Crazy in Love, Partition, Say My Name*, Savage Remix, ALIEN SUPERSTAR|
+|2|The Weeknd|5|Love Me Harder, I Feel It Coming, Blinding Lights, House of Balloons / Glass Table Girls, Less Than Zero|
+|3|Lady Gaga|4|Bad Romance (x 2), The Edge of Glory, Poker Face|
+|3|Britney Spears|4|Toxic (x 2), Oops... I Did It Again, Slumber Party|
+|3|Kanye West|4|Ultralight Beam, Heartless, Runaway, American Boy|
+|3|Carly Rae Jepsen|4|Run Away With Me (x 2), Higher, The Loneliest Time|
+|6|Paramore|3|Still Into You, Brick By Boring Brick, Misery Business|
+|6|Janelle Monáe|3|Make Me Feel (x2), Cold War
+|6|Mariah Carey|3|All I Want For Christmas Is You, A No No, We Belong Together|
+|6|Whitney Houston|3|How Will I Know, I Wanna Dance With Somebody (x2)|
+
+* Beyoncé has 4 solo wins and 1 for Destiny's Child
+
+###Most Losses
+
+well
+
+|Rank| Artist|Losses|Songs|
+:--|:--|:--|:--|
+| 1 | Madonna | 5 | Cyber-Raga, Shoo-Bee-Doo, Shanti/Ashtangi, I Love New York, Act of Contrition|
+| 2 | Halsey | 4 | I Walk the Line, Good Mourning, Closer, clementine|
+| 2 | Panic! At the Disco | 4 | Introduction, Me!, Girl That You Love, Bohemian Rhapsody|
+| 2 | Selena Gomez | 4 | As a Blonde, Naturally, ICE CREAM, Fun|
+| 2 | Taylor Swift | 4 | Bad Blood (x2), Me!, Vigilante Shit|
+| 4 | Katy Perry | 3 | Mind Maze, Ur So Gay, Who Am I Living For?|
+| 4 | Rihanna | 3 | Woo, Birthday Cake (remix), Numb|
+
+* Selena Gomez has 2 losses as 'Selena Gomez' and 2 losses as 'Selena Gomez and the Scene'
+
+###Highest Average Score
+
+|Rank|Artist|Average|
+:--|:--|--:|
+|1|Nina Simone|8.839
+|2|Aretha Franklin|8.694|
+|3|Jessie Ware|8.585|
+|4|Kate Bush|8.558|
+|5|The Supremes|8.500|
+|6|Jazmine Sullivan|8.467|
+|7|Lauryn Hill|8.450|
+|8|Donna Summer|8.374|
+|9|Fleetwood Mac|8.362|
+|10|Curtis Mayfield|8.333|
+|11|Stevie Wonder|8.332|
+|12|Phoebe Bridgers|8.329|
+|13|Timbaland|8.328|
+|14|Kendrick Lamar|8.326|
+|15|Tori Amos|8.314|
+|16|Fiona Apple|8.300|
+|17|Alicia Keys|8.279|
+|18|Genesis Owusu|8.279|
+|19|Kelela|8.273|
+|20|ABBA|8.262|
+|21|Carole King|8.260|
+|22|Sufjan Stevens|8.257|
+|23|Amy Winehouse|8.255|
+|24|Joni Mitchell|8.246|
+|25|Yung Baby Tate|8.243|
+
+###Lowest Average Score
+
+|Rank|Artist|Average|
+:--|:--|--:|
+|1|Chris Brown|5.034|
+|2|LMFAO|5.651|
+|3|The Vamps|5.703
+|4|Wiz Khalifa|5.728|
+|5|Kiiara|5.876|
+|6|T.I.|5.907|
+|7|Julia Michaels|6.158|
+|8|will.i.am|6.169
+|9|Justin Bieber|6.127|
+|10|Bebe Rexha|6.188
+
+###Most Controversial
+
+|Rank|Artist|Controversy|
+:--|:--|--:|
+|1|Chris Brown|2.858|
+|2|The Chainsmokers|2.839|
+|3|LMFAO|2.827|
+|4|GoonRock|2.684
+|5|T.I.|2.662|
+|6|Eminem|2.584|
+|7|fun.|2.534|
+|8|will.i.am|2.511
+|9|Big Time Rush|2.485|
+|10|Kiiara|2.485
+
+###Least Controversial
+
+|Rank|Artist|Controversy|
+:--|:--|--:|
+|1|Curtis Mayfield|1.298|
+|2|Erykah Badu|1.356|
+|3|Lauryn Hill|1.360|
+|4|Carole King|1.365|
+|5|D'Angelo|1.369|
+|6|Aretha Franklin|1.377
+|7|Kelela|1.381|
+|8|Solange|1.418|
+|9|The Go-Go's|1.420
+|10|Genesis Owusu|1.438
+
+###Most Songs Rated
+
+|Rank|Artist|Songs|
+:--|:--|--:|
+|1|Taylor Swift|166|
+|2|Carly Rae Jepsen|122|
+|3|Beyoncé|109|
+|4|Ariana Grande|102|
+|5|Charli XCX|101|
+|6|Lady Gaga|99|
+|7|The Weeknd|98|
+|8|Britney Spears|96|
+|8|Lana Del Rey|96|
+|10|Rihanna|93|
+|11|Katy Perry|92|
+|12|Kesha|86|
+|13|Madonna|83|
+|14|Kylie Minogue|77|
+|15|Miley Cyrus|68
+|16|Halsey|65
+|17|Kanye West|63|
+|18|Nicki Minaj|62
+|19|Drake|61
+|20|Kendrick Lamar|60|
+|20|Mariah Carey|60|
+|20|Paramore|60|
+|23|Demi Lovato|59
+|24|Tove Lo|55
+|25|Panic! At the Disco|54
+
+###Most Rate Appearances
+
+|Rank|Artist|Rates|
+:--|:--|--:|
+|1|The Weeknd|23|
+|2|Ariana Grande|22|
+|2|Beyoncé|22|
+|2|Charli XCX|22|
+|5|Nicki Minaj|21|
+|5|Rihanna|21|
+|5|Taylor Swift|21|
+|8|Carly Rae Jepsen|19
+|9|Lana Del Rey|18
+|9|Britney Spears|18|
+
+
+###Most Elevens
+
+|Rank|Artist|11's|
+:--|:--|--:|
+|1|Taylor Swift|443|
+|2|Carly Rae Jepsen|362|
+|3|Beyoncé|281|
+|4|Ariana Grande|270|
+|5|Charli XCX|260|
+|6|Lady Gaga|249|
+|7|The Weeknd|227|
+|8|Lana Del Rey|185|
+|9|Rihanna|168
+|10|Rina Sawayama|166
+
+* Britney is in 12th with 155, but we're missing the number of 11s from the first time we rated Toxic, so it's likely she would be on here
+
+###Least Elevens
+
+Right now **one** artist has no 11's
+
+* Master P (0 elevens/6 songs)
+
+Really Master P deserves an asterisk since his rated songs are just interludes he featured on that were unlikely to ever get an 11. Though to his benefit, he also gets to feature on the no 0's list. 
+
+Artists that have previously held this record can be [found here](https://pastebin.com/YUC2bQFz)
+
+###Most Zeroes
+
+Y'all have opinions on Taylor huh. 
+
+|Rank|Artist|0's|
+:--|:--|--:|
+|1|Taylor Swift|416|
+|2|Charli XCX|153|
+|3|Halsey|146|
+|4|Katy Perry|144|
+|5|Ariana Grande|130|
+|6|Rihanna|106|
+|7|Lady Gaga|97|
+|8|Dua Lipa|96|
+|9|Selena Gomez|93
+|9|Lana Del Rey|93
+
+###Least Zeroes
+
+Managing to survive through rabid stans, ratings sabotage, and the messiness known as "All Stars", only 16 artists have currently never received a zero! Many artists can come and go from this list, but this is the list of currently active 'no 0's' streaks. From most ratings to least they are
+
+* Erykah Badu (0 zeroes/17 songs)
+* The Jonas Brothers (0/17)
+* Lauryn Hill (0/17)
+* MisterWives (0/15)
+* Stevie Wonder (0/15)
+* Jazmine Sullivan (0/14)
+* Carole King (0/13)
+* Paula Abdul (0/11)
+* Curtis Mayfield (0/10)
+* Purity Ring (0/10)
+* Mis-Teeq (0/9)
+* Hannah Montana (0/7)
+* The Supremes (0/7)
+* Master P (0/6)
+* Anderson .Paak (0/5)
+* EXO (0/5)
+
+
+Artists that have previously held this record can be [found here](https://pastebin.com/q80tmLeg)
+
+---
+
+##Albums
+
+EPs not included. Some albums are tracked separately to the songs in the main rate so, for example, some remixes or bonus tracks included by hosts might not count toward certain albums stats.
+
+###Highest Average Albums
+
+|Rank|Album|Artist|Average|
+:--|:--|:--|:--|
+|1|To Pimp a Butterfly|Kendrick Lamar|8.871|
+|2|Hounds of Love|Kate Bush|8.808|
+|3|My Beautiful Dark Twisted Fantasy|Kanye West|8.803|
+|4|What's Your Pleasure?|Jessie Ware|8.662|
+|5|OIL OF EVERY PEARL'S UN-INSIDES|SOPHIE|8.648|
+|6|RENAISSANCE|Beyoncé|8.641
+|7|Melodrama|Lorde|8.557|
+|8|Homogenic|Björk|8.548|
+|9|Channel Orange|Frank Ocean|8.538|
+|10|Heaux Tales|Jazmine Sullivan|8.488|
+|11|Innervisions|Stevie Wonder|8.487|
+|12|good kid, m.A.A.d city|Kendrick Lamar|8.485|
+|13|When the Pawn...|Fiona Apple|8.469|
+|14|Purple Rain|Prince|8.463|
+|15|MAGDALENE|FKA twigs|8.458|
+|16|The Miseducation of Lauryn Hill|Lauryn Hill|8.425|
+|17|Little Earthquakes|Tori Amos|8.400
+|18|Thriller|Michael Jackson |8.381|
+|19|Superfly|Curtis Mayfield|8.377|
+|20|SAWAYAMA|Rina Sawayama|8.336
+|21|Tapestry|Carole King|8.335|
+|22|Rumours|Fleetwood Mac|8.333|
+|23|Punisher|Phoebe Bridgers|8.324|
+|24|Norman Fucking Rockwell!|Lana Del Rey|8.327
+|25|Tidal|Fiona Apple|8.332
+
+###Lowest Average Albums
+
+|Rank|Album|Artist|Average|
+:--|:--|:--|:--|
+|1|Meet The Vamps|The Vamps|5.703
+|2|Bangerz|Miley Cyrus|6.202|
+|3|Luv Is Rage 2|Lil Uzi Vert|6.276|
+|4|1989 [Original]|Taylor Swift|6.281|
+|5|Teenage Dream [Original]|Katy Perry|6.306
+|6|Midnights|Taylor Swift|6.356
+|7|Harry's House|Harry Styles|6.362
+|8|Poster Girl|Zara Larsson|6.419
+|9|I Love You|The Neighbourhood|6.492|
+|10|Oral Fixation, Vol. 2|Shakira|6.501|
+|11|Purpose|Justin Bieber|6.517|
+|12|Millennium|Backstreet Boys|6.528|
+|13|Views|Drake|6.560|
+|14|Prism|Katy Perry|6.596
+|15|Superorganism|Superorganism|6.632
+|16|Kiss & Tell|Selena Gomez &amp; The Scene|6.634
+|17|Selena Gomez|Rare|6.650
+|18|Blurryface|Twenty One Pilots|6.666
+|19|Death of a Bachelor|Panic! At the Disco|6.668
+|20|Animal [Original]|Kesha|6.668
+|21|Confident|Demi Lovato|6.685
+|22|Touch|Eurythmics|6.687
+|23|Pink Friday|Nicki Minaj|6.700
+|24|Witness|Katy Perry|6.717
+|25|I Cry When I Laugh|Jess Glynne|6.760
+
+###Highest Average EPs
+
+|Rank|Album|Artist|Average|
+:--|:--|:--|:--|
+|1|Last Year Was Weird, Vol. 2|Tkay Maidza|8.169|
+|2|EMOTION Side B|Carly Rae Jepsen|7.986|
+|3|RINA|Rina Sawayama|7.942|
+|4|La vita nuova|Christine and the Queens|7.923|
+|5|2000AND4EVA|Bree Runway|7.864|
+
+###Lowest Average EPs
+
+I admire an artist that can make a leaderboard two times in a single rate.
+
+|Rank|Album|Artist|Average|
+:--|:--|:--|:--|
+|1|low kii savage|Kiiara|5.876|
+|2|All Your Fault: Pt. 2|Bebe Rexha|5.935|
+|3|Collage|The Chainsmokers|6.091|
+|4|Nervous System|Julia Michaels|6.211|
+|5|All Your Fault: Pt. 1|Bebe Rexha|6.458|
+
+###Most Controversial
+
+Note: Only albums counted here. Otherwise the EPs would have quite the stranglehold on the top 5 (shoutout to Charli's Vroom Vroom and The Chainsmokers' Collage for smashing through all the way above a controversy of 2.7)
+
+|Rank|Album|Artist|Average|
+:--|:--|:--|:--|
+|1|Death of a Bachelor|Panic! At the Disco|2.487
+|2|Midnights|Taylor Swift|2.447
+|3|Bangerz|Miley Cyrus|2.442|
+|4|Reputation|Taylor Swift|2.434|
+|5|Confident|Demi Lovato|2.403|
+|6|Teenage Dream [Original]|Katy Perry|2.399
+|7|Blurryface|Twenty One Pilots|2.391
+|8|Prism|Katy Perry|2.365
+|9|Red|Taylor Swift|2.351
+|10|Music|Madonna|2.345
+
+###Least Controversial
+
+|Rank|Album|Artist|Average|
+:--|:--|:--|:--|
+|1|To Pimp a Butterfly|Kendrick Lamar|1.171|
+|2|When the Pawn...|Fiona Apple|1.206|
+|3|Coat of Many Colors|Dolly Parton|1.229
+|4|Superfly|Curtis Mayfield|1.272
+|5|Black Messiah|D'Angelo|1.293
+|6|Same Trailer,  Different Park|Kacey Musgraves|1.306
+|7|Tapestry|Carole King|1.325
+|8|A Seat At The Table|Solange|1.329
+|9|The Miseducation of Lauryn Hill|Lauryn Hill|1.333
+|10|Big Fish Theory|Vince Staples|1.336
+
+### No 0's
+
+There have been 24 albums and 4 EPs to escape a rate without a dreaded 0! Unlike the artists' no zeroes stat, no one will be able to take this from them.
+
+**Albums**
+
+- Carole King - Tapestry
+- Curtis Mayfield - Superfly
+- Demi Lovato - Don't Forget
+- Dolly Parton - Coat of Many Colors
+- Erykah Badu - Baduizm
+- Fiona Apple - When the Pawn...
+- Florence + The Machine - How Big, How Blue, How Beautiful
+- Janet Jackson - Rhythm Nation 1814
+- Jazmine Sullivan - Heaux Tales
+- Jonas Brothers - A Little Bit Longer
+- Kacey Musgraves - Same Trailer, Different Park
+- Kylie Minogue - Fever
+- Lauryn Hill - The Miseducation of Lauryn Hill
+- Madonna - Madonna
+- Maggie Rogers - Heard It In A Past Life
+- Maren Morris - Hero
+- MisterWives - Our Own House
+- Paula Abdul - Forever Your Girl
+- PURITY RING - another eternity
+- Shura - forevher
+- Solange - A Seat At The Table
+- Stevie Wonder - Innervisions
+- Tori Amos - Little Earthquakes
+- Years & Years - Palo Santo
+
+**EPs**
+
+- Aly & AJ - Ten Years
+- Magdalena Bay - A Little Rhythm and a Wicked Feeling
+- MØ - When I Was Young
+- Tkay Maidza - Last Year Was Weird, Vol. 2
+
+### No 11's
+
+I don't think anything will be here. I mean it's pretty difficult for us to rate an album and not have anyone enjoy at least one song off it enough for at least ONE person to 11 it. An album like that probably would've had to flop in the rate to an extraordinary, record-setting degree and - oh wait
+
+**Albums**
+
+- Drake - Views
+
+###Most 11s (by %)
+
+This category calculates the 11 dominance of each artist in a rate. So that's how many 11's (percentage-wise) did that artist take in the rate
+
+Though the albums are here for convenience, just note that this stat **does** include loose singles / other projects in the main rate
+
+|Rank|Album|Artist|11's Received
+:--|:--|:--|:--|
+|1|FOUR|One Direction|65.8%
+|2|The Miseducation of Lauryn Hill|Lauryn Hill|64.3%
+|3|RENAISSANCE|Beyoncé|63.2%
+|4|sweetener|Ariana Grande|61.40%
+|5|OIL OF EVERY PEARL'S UN-INSIDES|SOPHIE|61.0%
+|6|Speak Now|Taylor Swift|60.9%
+|7|To Pimp A Butterfly|Kendrick Lamar|60.7%
+|8|Paramore|Paramore|58.1%
+|9|YHLQMDLG|Bad Bunny|56.4%
+|10|What's Your Pleasure|Jessie Ware|55.7%
+
+###Least 11s (by %)
+
+Though the albums are here for convenience, just note that this stat **does** include loose singles / other projects in the main rate
+
+Rank|Album|Artist|11 Dominance
+:--|:--|:--|:--|
+|1|Views|Drake|0.0%
+|2|All Your Faults Pts. 1 & 2|Bebe Rexha|2.0%
+|3|There's A Riot Goin' On|Sly & The Family Stone|2.8%
+|4|Meet The Vamps|The Vamps|3.8%
+|5|Hybrid Theory|Linkin Park|4.3%
+|5|Strange Mercy|St. Vincent|4.3%
+|7|Golden|Kylie Minogue|5.5%
+|8|MATANGI|M.I.A.|5.9%
+|9|The Beatles 20 Greatest Hits|The Beatles|6.0%
+|10|Pink Friday|Nicki Minaj|6.3%
+
+###Most 0's (by %)
+
+~~No one's taken more than 50% of the 0's in a rate, but a few have definitely come close~~ edited March 2023: lol
+
+Though the albums are here for convenience, just note that this stat **does** include loose singles / other projects in the main rate
+
+Rank|Album|Artist|0 Dominance
+:--|:--|:--|:--|
+|1|Midnights|Taylor Swift|56.9%
+|2|Talk That Talk|Rihanna|47.6%
+|3|Teenage Dream [Original]|Katy Perry|44.0%
+|4|Harry Styles|Harry's House|39.2%
+|5|Good News|Megan Thee Stallion|37.4%
+|6|Reputation|Taylor Swift|36.4%
+|7|Views|Drake|35.7%
+|8|Future Nostalgia|Dua Lipa|35.7%
+|9|Meet The Vamps|The Vamps|35.4%
+|10|1989 [Rerate]|Taylor Swift|34.7%
+
+###Highest 11 spread
+
+Only 3 albums and 2 EPs have ever had every song pick up at least someone's 11. Those are
+
+- Melodrama - Lorde
+
+- After Laughter - Paramore
+
+- American Beauty/American Psycho - Fall Out Boy
+
+- Nemesis - Bridget Mendler
+
+- Charli XCX - Vroom Vroom
+
+The full top 10 is below
+
+Rank|Album|Artist|11 Spread|Missing 11s
+:--|:--|:--|:--|:--
+|1|Melodrama|Lorde|100.0%|N/A
+|1|After Laughter|Paramore|100.0%|N/A
+|1|American Beauty/American Psycho|Fall Out Boy|100%|N/A
+|4|SAWAYAMA|Rina Sawayama|92.9%|Akasaka Sad
+|6|Lemonade|Beyoncé|91.7%|Pray You Catch Me
+|6|What's Your Pleasure?|Jessie Ware|91.7%|In Your Eyes
+|6|Cape God|Allie X|91.7%|Super Duper Party People
+|9|Blue Weekend|Wolf Alice|90.90%|No Hard Feelings
+|10|ARTPOP|Lady Gaga|87.5%| Dope & Mary Jane Holland
+|10|FOUR|One Direction|87.5%|Change Your Ticket & Illusion
+
+### Lowest 11 Spread
+
+There have been 3 albums that had all of their 11s focused on a single song.
+
+Those albums are
+
+- The Neighbourhood - I Love You. (4/4 of its 11s went to Sweater Weather)
+
+- M.I.A. - MATANGI (6/6 of its 11s went to Bad Girls)
+
+- Whitney Houston - Whitney Houston (12/12 of its 11s went to How Will I Know)
+
+###Highest 0 spread
+
+
+No albums have had every song 0'd but 3 EPs have:
+
+- Don't Kill My Vibe - Sigrid
+
+- All Your Fault Pt. 2 - Bebe Rexha
+
+- Vroom Vroom - Charli XCX (again)
+
+And for the albums:
+
+Rank|Album|Artist|0 Spread|Missing 0s
+:--|:--|:--|:--|:--
+|1|SOUR|Olivia Rodrigo|90.9%|Jealousy, Jealousy
+|2|Melodrama|Lorde|81.8%|Perfect Places & Sober II (Melodrama)
+|3|Crash|Charli XCX|75.0%|Crash, Constant Repeat, Twice, Sorry If I Hurt You
+|4|Reputation|Taylor Swift|73.3%|New Year's Day, Dancing With Our Hands Tied, I Did Something Bad, King of My Heart
+|5|Miss Anthropocene|Grimes|72.7%|Violence, Delete Forever, My Name Is Dark
+|6|Death of a Bachelor|Panic! At the Disco|72.7%|Golden Days, House of Memories, Victorious
+|7|Witness|Katy Perry|70.6%|Witness, Roulette, Pendulum, Power
+|8|1989 [Rerate]|Taylor Swift|68.8%|Wildest Dreams, Clean, This Love, You Are In Love, Wonderland
+|8|Prism|Katy Perry|68.8%|Legendary Lovers, Walking On Air, Ghost, By The Grace of God, Spiritual
+|10|Dedicated Side B|Carly Rae Jepsen|68.7%|Stay Away, Felt This Way, Solo, Window
+
+* Not an album, but was treated in the rate as one
+
+###Biggest Score Gap
+
+Sometimes all it takes is one stinker to sink you.
+
+Rank|Album|Artist|Score Diff|Best & Worst
+:--|:--|:--|:--|:--
+|1|1989 (Rerate)|Taylor Swift|5.460|Style & Bad Blood
+|2|Love. Angel. Music. Baby.|Gwen Stefani|5.228|Cool & Harajuku Girls
+|3|Future Nostalgia|Dua Lipa|5.200|Levitating & Boys Will Be Boys
+|4|The Writing's On The Wall|Destiny's Child|4.918|Say My Name & Intro (The Writing's on the Wall)
+|5|Oops!...I Did It Again|Britney Spears|4.915|Oops!...I Did It Again & Dear Diary
+|6|A Fever You Can't Sweat Out|Panic! At The Disco|4.899|I Write Sins Not Tragedies & Introduction
+|7|Femme Fatale|Britney Spears|4.858|Till the World Ends & Big Fat Bass
+|8|Midnights|Taylor Swift|4.831|Would've, Could've, Should've & Vigilante Shit|
+|8|1989 (Original)|Taylor Swift|4.779|Style & Bad Blood
+|9|The Great Gatsby (Soundtrack)|Various Artists|4.662|Young and Beautiful & Bang Bang
+|10|Good News|Megan Thee Stallion|4.646|Savage Remix & Crybaby
+
+###Smallest Score Gap
+
+Rank|Album|Artist|Score Diff|Best & Worst
+:--|:--|:--|:--|:--
+|1|When the Pawn...|Fiona Apple|1.109|Paper Bag & Love Ridden
+|2|Cape God|Allie X|1.139|Susie Save Your Love & Love Me Wrong
+|3|Black Messiah|D'Angelo|1.260|The Charade & Back to the Future (Part II)
+|4|Blue|Joni Mitchell|1.323|River & My Old Man
+|5|Superfly|Curtis Mayfield|1.342|Pusherman & Give Me Your Love (Love Song)
+|6|Little Earthquakes|Tori Amos|1.362|Crucify & China
+|7|Liberation|Christina Aguilera|1.398|Like I Do & Right Moves
+|8|Pearl|Janis Joplin|1.440|Me and Bobby McGee & Mercedes Benz
+|9|Manners|Passion Pit|1.441|Sleepyhead & Let Your Love Grow Tall
+|10|Dedicated Side B|Carly Rae Jepsen|1.474|Summer Love & Heartbeat
+
+---
+
+##Rates
+
+Excluded in the data are the 3 vision rates (which are not counted in these stats but are counted as a part of the counted rates since they are eligible for winners/all-stars), and the Videography rate (since it was a video ranking, not a song one). Bonus songs are also not considered for this category.
+
+###Highest Averages
+
+|Rank|Rate|Average|
+:--|:--|--:|
+|1|Homogenic vs. Hounds of Love vs. When the Pawn...|8.621|
+|2|My Beautiful Dark Twisted Fantasy vs. good kid, m.A.A.d city vs. Channel Orange|8.609|
+|3|To Pimp a Butterfly vs. A Seat at the Table vs. Black Messiah|8.416|
+|4|Debut vs. Tidal vs. Little Earthquakes|8.248
+|5|Norman Fucking Rockwell vs. MAGDALENE vs. Titanic Rising|8.227|
+|6|Fetch The Bolt Cutters vs. Punisher vs. Women in Music Pt. III|8.196|
+|7|60's Pop/Soul Classics|8.179|
+|8|Innervisions vs. What's Going On vs. Superfly vs. There's a Riot Goin' On|8.175|
+|9|Blue vs. Pearl vs. Tapestry vs. Coat of Many Colors|8.160|
+|10|Back to Black vs. 21 vs. It's Not Me, It's You|8.089|
+
+###Lowest Averages
+
+|Rank|Rate|Average|
+:--|:--|--:|
+|1|Billboard Hot 100 Year-End Songs of 2012|5.648|
+|2|Tiktok Rate|6.377
+|3|Billboard Hot 100 Decade-End Songs of the 2010s|6.510|
+|4|Bangerz vs. Revival vs. Confident|6.547|
+|5|Drag Rate|6.684|
+|6|Death of a Bachelor vs. American Beauty/American Psycho vs. Blurryface|6.714|
+|7|Four vs. 5 Seconds of Summer vs. Meet the Vamps|6.748
+|8|Heaven & Hell vs. Poster Girl vs. Life Support|6.754|
+|9|One Hit Wonderland Rate|6.768|
+|10|Teenage Dream vs. The Fame Monster vs. Animal + Cannibal|6.770|
+
+###Highest Controversy
+
+|Rank|Rate|Controversy|
+:--|:--|--:|
+|1|Meme Songs|2.726|
+|2|Unreleased Songs|2.506|
+|3|Death of a Bachelor vs. American Beauty/American Psycho vs. Blurryface|2.432
+|4|Billboard Hot 100 Year-End Songs of 2012|2.430|
+|5|Bangerz vs. Revival vs. Confident|2.394|
+|6|One Hit Wonderland Rate|2.371|
+|7|Billboard Hot 100 Decade-End Songs of the 2010s|2.369|
+|8|Billboard Hot 100 Year-End Songs of 2009|2.320|
+|9|All Stars 2019-2020|2.315|
+|10|Billboard Year End #1's: 1967 - 2016|2.306|
+
+###Lowest Controversy
+
+|Rank|Rate|Controversy|
+:--|:--|--:|
+|1|To Pimp a Butterfly vs. A Seat at the Table vs. Black Messiah|1.269|
+|2|Blue vs. Pearl vs. Tapestry vs. Coat of Many Colors|1.346|
+|3|Homogenic vs. Hounds of Love vs. When the Pawn...|1.348|
+|4|The Miseducation of Lauryn Hill vs. Baduizm vs. Who Is Jill Scott? Words and Sounds Vol. 1|1.366|
+|5|My Beautiful Dark Twisted Fantasy vs. good kid, m.A.A.d city vs. Channel Orange|1.403|
+|6|Innervisions vs. What's Going On vs. Superfly vs. There's a Riot Goin' On|1.406|
+|7|El Mal Querer vs. Sin Miedo (del Amor y Otros Demonios) vs. Miss Colombia|1.415|
+|8|Debut vs. Tidal vs. Little Earthquakes|1.450
+|9|Take Me Apart vs. Isolation vs. When I Get Home|1.453|
+|10|Hero vs. The First Time vs. Same Trailer, Different Park|1.499|
+
+###Most Participants
+
+|Rank|Rate|Participants|
+:--|:--|--:|
+|1|K-Pop Girl Groups Smackdown|273
+|2|Lover vs. thank u, next vs. WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? vs. Cuz I Love You|236|
+|3|Folklore vs. Chromatica vs. Future Nostalgia vs. After Hours|230|
+|4|Dedicated Side B vs. How I'm Feeling Now vs. Sawayama vs. Ungodly Hour|195|
+|5|2021 K-Pop Essentials|185|
+|6|Sour vs. Happier Than Ever vs. Montero vs. Planet Her|176
+|7|Renaissance vs. Midnights vs. SOS|174
+|8|Indieheads Exchange|170|
+|9|1989 vs. EMOTION vs. Dangerous Woman [Rerate]|167
+|10|K-Pop Girl Group Singles|160|
+
+###Eleven Spread
+
+This category measures how many songs in a rate (by percent) received someone's 11.
+
+**Highest**
+
+|Rank|Rate|Songs with 11|
+:--|:--|--:|
+|1|The Redemption Rate|96.67%|
+|2|Indieheads Exchange|92.50%
+|3|Ratemas|86.11%
+|4|Winners Rate: 1 - 50|84.00%|
+|5|Artpop vs. Prism vs. Beyoncé|83.67%|
+|6|St. Ratrick's Day|82.50%|
+|7|K-Pop Girl Groups Smackdown|81.54%
+|8|Winners Rate II|78.00%|
+|9|Dedicated Side B vs. How I'm Feeling Now vs. Sawayama vs. Ungodly Hour|77.55%|
+|10|Video Game Instrumentals|77.50%|
+
+**Lowest**
+
+|Rank|Rate|Songs with 11|
+:--|:--|--:|
+|1|The Writing's on the Wall vs. Funky Divas vs. CrazySexyCool|17.78%|
+|2|Glory Days vs. Phoenix vs. I Cry When I Laugh|21.15%|
+|3|Body Talk vs. Bionic vs. Flesh Tone vs. Aphrodite|23.64%|
+|4|Oops!…I Did It Again vs. Christina Aguilera vs. No Strings Attached vs. Millennium|25.49%|
+|5|She's So Unusual vs. Madonna vs. Forever Your Girl vs. Whitney Houston|27.03%|
+
+###Zero Spread
+
+And here is the category for the percent of songs with somebody's 0.
+
+**Highest**
+
+|Rank|Rate|Songs with 0|
+:--|:--|--:|
+|1|Winners Rate II|68.00%|
+|2|The Redemption Rate|63.33%|
+|3|K-Pop Girl Groups Smackdown|63.08%
+|4|Rainbow vs. Reputation vs. Witness|61.70%|
+|5|Artpop vs. Prism vs. Beyoncé|61.22%|
+|6|Unreleased Songs|60.00%|
+|7|Billboard Year End #1's: 1967 - 2016|58.82%|
+|8|The 2016 EP Rate|58.33%|
+|9|K-Pop Girl Group Singles|58.00%|
+|10|Winners Rate III|58.00%|
+
+
+**Lowest**
+
+|Rank|Rate|Songs with 0|
+:--|:--|--:|
+|1|To Pimp a Butterfly vs. A Seat at the Table vs. Black Messiah|4.08%|
+|2|Blue vs. Pearl vs. Tapestry vs. Coat of Many Colors|4.76%|
+|3|Hero vs. The First Time vs. Same Trailer, Different Park|5.26%|
+|4|Homogenic vs. Hounds of Love vs. When the Pawn...|6.25%|
+|5|The Miseducation of Lauryn Hill vs. Baduizm vs. Who Is Jill Scott? Words and Sounds Vol. 1|8.16%|
+
+###Elevens Used
+
+People don't use their elevens??? It's not like you can save them and give a pop girl 2 in the next rate
+
+|Rank|Artist|Elevens Used|
+:--|:--|--:|
+|1|Charity Rate: Hispanic Federation|100.00%|
+|1|Pet Sounds vs. Abbey Road vs. Rumours|100.00%|
+|1|She's So Unusual vs. Madonna vs. Forever Your Girl vs. Whitney Houston|100.00%|
+|1|Classic Disco Singles|100.00%|
+|1|Hopelessness vs. Kick I vs. Transphobic vs. Oil of Every Pearl's Un-Insides|100.00%|
+|1|All Stars 5|100.00%|
+|7|Winners Rate II|99.35%|
+|8|St. Ratrick's Day|0.9911
+|9|Charity Rate III|99.05%|
+|10|All Stars 6|99.02%|
+
+###Zeroes Used
+
+You can always count on the Billboard rates for some good zero potential. We're also still waiting for a 100% or 0% zero rate.
+
+|Rank|Artist|Zeroes Used|
+:--|:--|--:|
+|1|Billboard Hot 100 Year-End Songs of 2012|90.12%|
+|2|Billboard Hot 100 Decade-End Songs of the 2010s|89.21%|
+|3|Tiktok Rate|85.95%|
+|4|All Stars 6|84.31%|
+|5|Charity Rate II: Sylvia Rivera Law Project|82.89%|
+|6|Charity Rate IV|82.83%
+|7|Early 10's Pop Rap|82.80%|
+|8|Billboard Hot 100 Year-End Songs of 2009|82.61%|
+|9|Billboard Year End #1's: 1967 - 2016|81.08%|
+|10|Drag Rate|80.95%|
+
+##Rare Events
+
+These are for stats that focus more on notable events like leaderboard sweeps and early exits
+
+###Leaderboard Sweeps
+
+|Rank| Artist | Rate | Swept|
+:--|:--|:--|:--|
+| 1 | Paramore | Brand New Eyes vs. Folie a deux vs. Vices & Virtues | Top 4 (Brick By Boring Brick, Ignorance, Decode, All I Wanted)
+| 1 | Beyoncé | Renaissance vs. Midnights vs. SOS | Top 4 (PURE/HONEY, CUFF IT, ALIEN SUPERSTAR, VIRGO'S GROOVE)
+| 3 | Lady Gaga | Teenage Dream vs. Fame Monster vs. Animal + Cannibal | Top 3 (Bad Romance, Paparazzi, Poker Face)
+| 3 | Ariana Grande | Red vs. My Everything vs. Kiss | Top 3 (Love Me Harder, One Last Time, Break Free)
+| 3 | Arctic Monkeys | The 1975 vs. AM vs. I Love You. vs. Modern Vampires of the City | Top 3 (Do I Wanna Know, R U Mine?, Why'd You Only Call Me When You're High)
+| 3 | Red Velvet | K-Pop Girl Group Singles | Top 3 (Russian Roulette, Bad Boy, Peek-a-Boo)
+| 3 | Tyler, the Creator | IGOR vs. GINGER vs. Swimming | Top 3 (I THINK, EARFQUAKE, BOY IS A GUN)
+| 3 | Ariana Grande | Sweetener vs. Tell Me You Love Me vs. Rare | Top 3 (No Tears Left To Cry, God is a woman, breathin)
+| 3 | Carly Rae Jepsen | The Loneliest Time vs. Crash vs. Hold The Girl vs. Dirt Femme | Top 3 (The Loneliest Time, Talking To Yourself, Surrender My Heart)
+
+###Earliest Exit (4 albums)
+
+The only ones not to make top 10. Honestly, I doubt anything is coming close to Drake's level of flopping
+
+|Rank| Artist | Rate | Highest Place |
+:--|:--|:--|:--|
+| 1 | Drake | Views vs. Life of Pablo vs. Coloring Book vs. Blonde | 25/60 (Hotline Bling)
+| 2 | Carly Rae Jepsen | Dedicated Side B vs. How I'm Feeling Now vs. Sawayama vs. Ungodly Hour | 17/49 (Summer Love)
+| 3 | Bebe Rexha | All Your Fault Pts. I & II vs. Camila vs. Dua Lipa vs. So Good | 16/51 (I Got You)
+| 4 | Christina Aguilera | Body Talk vs. Bionic vs. Flesh Tone vs. Aphrodite | 15/58 (Not Myself Tonight)
+| 5 | Summer Walker | Heaux Tales vs. Still Over It vs. Blue Water Road vs. age/sex/location | 12/58 (4th Baby Mama)
+| 5 | Charli XCX  | Dedicated Side B vs. How I'm Feeling Now vs. Sawayama vs. Ungodly Hour | 12/49 (forever)
+| 7 | Doja Cat | Sour vs. Happier Than Ever vs. Montero vs. Planet Her | 11/59 (Kiss Me More)
+| 7 | Halsey | Lust for Life vs. Hopeless Fountain Kingdom vs. Melodrama vs. Masseduction | 11/57 (Strangers)
+| 7 | CHVRCHES | Mercurial World vs. Nurture vs. Screen Violence vs. Civilisation | 11/48 (Asking For A Friend)
+| 7 | Sly & The Family Stone | Innervisions vs. What's Going On vs. Superfly vs. There's a Riot Goin' On | 11/38 (Family Affair)
+
+###Earliest Exit (3 albums)
+
+Everyone say thank you Taylor
+
+|Rank| Artist | Rate | Highest Place |
+:--|:--|:--|:--|
+| 1 | Taylor Swift | Renaissance vs. Midnights vs. SOS | 14/60 (Would've, Could've, Should've)
+| 2 | Harry Styles | Un Verano Sin Ti vs. Harry's House vs. Dawn FM | 13/53 (As It Was)
+| 3 | D'Angelo | To Pimp a Butterfly vs. A Seat at the Table vs. Black Messiah | 10/49 (The Charade)
+| 3 | Kylie Minogue | What's Your Pleasure? vs. Disco vs. Róisín Machine | 10/38 (Magic)
+| 5 | Charli XCX | Days Are Gone vs. Night Time, My Time vs. True Romance | 9/37 (You (Ha Ha Ha))
+| 5 | The Vamps | Four vs. 5 Seconds of Summer vs. Meet the Vamps | 9/45 (Can We Dance)
+| 5 | Kelis | Aaliyah vs. Full Moon vs. Tasty | 9/45 (Tasty)
+| 5 | Karol G | YHLQMDLG vs. KG0516 vs. Vibras | 9/49 (GATO MALO)
+| 9 | The Beatles | Classic Greatest Hits: ABBA vs. Queen vs. The Beatles | 8/58 (Hey Jude)
+| 9 | Prince | Bad vs. Sign O' the Times vs. Faith | 8/41 (I Could Never Take The Place Of Your Man)
+| 9 | Björk | Debut vs. Tidal vs. Little Earthquakes | 8/34 (Venus As A Boy)
+
+##Users
+
+###Most 11 Wins
+
+Tracked thanks to u/TragicKingdom1 (currently maintained by u/RandomHypnotica)
+
+https://pastebin.com/JdAbTxtC
+
+###Most 0 Kills
+
+aka How many times has your 0 gone out first
+
+Tracked thanks to /u/jackisboredtoday
+
+https://pastebin.com/2BJGWW7t
+
+###Most 11 Fails
+
+aka How many times has your 11 left first in a rate
+
+Tracked thanks to /u/frogaranaman 
+
+https://pastebin.com/c1iNR6M0
+
+###Most 0 Fails
+
+aka How many times has your 0 won a rate
+
+Tracked thanks to /u/frogaranaman 
+
+https://pastebin.com/Jsr3HMVt
+
+###Most 11 Misses
+
+aka How many times has your 11 just barely missed the mark and placed 2nd
+
+Tracked thanks to /u/frogaranaman 
+
+https://pastebin.com/Ce6fuCL0
+
+###Most 0 Hits
+
+aka How many times did you 0 the 2nd place song and (possibly) cause it to miss the win
+
+Tracked thanks to /u/frogaranaman 
+
+https://pastebin.com/6de68G4R
+
+###Solo 11s
+
+aka How many times were you the only one to give an 11 to a song
+
+Tracked thanks to /u/RandomHypnotica
+
+https://pastebin.com/H8iKati3
