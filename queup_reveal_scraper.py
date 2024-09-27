@@ -71,7 +71,6 @@ def main():
         f.write("\n---------SONG PLAYING---------\n")
         f.flush()
     try:
-        #c.run(email="popheadssonglist@gmail.com", password="winners2bestrevealEVAR!")
         print(QUEUP_USER)
         print(QUEUP_PASS)
         c.run(email=QUEUP_USER, password=QUEUP_PASS)
