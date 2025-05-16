@@ -4179,3 +4179,8 @@ Hfslkhdnslds
 	Link: https://www.youtube.com/watch?v=2RA-lXK0c0g
 	Queued by: beeozan
 ---------SONG PLAYING---------
+Bot is online!
+Tracking starting at 01/20/2025 00:54:19
+
+Tracking ended at 01/20/2025 03:09:44
+Bot offline
